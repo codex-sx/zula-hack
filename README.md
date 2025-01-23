@@ -2,6 +2,8 @@
 # ZulAimX - Aimbot Zula - Hack
 ![enter image description here](https://raw.githubusercontent.com/codex-sx/zula-hack/refs/heads/main/hero.jpg)
 
+- [   \[Visit the official ZulAimX website\]](https://zulaimx.short.gy/anP5YO)
+
 **ZulAimX** is the most advanced system for visual aid and precise aiming, specifically designed for the game **Zula**. It works with all versions of Zula and supports multiple languages. It ensures safety and efficiency without compromising your gaming experience. ZulAimX provides powerful solutions such as **aimbot** and **wall hack**.
 
 ## Key Features
