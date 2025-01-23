@@ -44,7 +44,7 @@ ZulAimX's anti-ban protection is regularly updated to ensure the system is secur
 
 -   [   \[Visit the official ZulAimX website\]](https://zulaimx.short.gy/anP5YO)
 -   (#) for more information about hacks for Zula.
-  
+-   My Discord: **codex_sx**
 -   [Watch the demonstration video](https://youtu.be/81uwhfA44UE)
    
 ![enter image description here](https://raw.githubusercontent.com/codex-sx/zula-hack/refs/heads/main/youtube.jpg)
