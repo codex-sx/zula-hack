@@ -1,5 +1,5 @@
 
-# ZulAimX - Aimbot Zula - Hack
+# ZulAimX - Aimbot Zula - Hack - 2025
 ![enter image description here](https://raw.githubusercontent.com/codex-sx/zula-hack/refs/heads/main/hero.jpg)
 
 - [   \[Visit the official ZulAimX website\]](https://zulaimx.short.gy/anP5YO)
